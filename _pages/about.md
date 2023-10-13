@@ -36,7 +36,7 @@ My research project, "Phonological Transfer in L3 Acquisition of Ironic Tone of 
   Language-Specific Prosodic Cues in Online Sentence Comprehension: Exploring the role of language-specific prosody in real-time sentence processing.
 
 
-**You can find me Cv here:**  [Zhou Ziqi's Curriculum Vitae] (../assets/ZHOU_Ziqi_CV.pdf). 
+**You can find my CV here:**  [Zhou Ziqi's Curriculum Vitae]. 
 
 
 
