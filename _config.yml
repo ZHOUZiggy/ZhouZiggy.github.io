@@ -86,6 +86,7 @@ author:
   location         : "Paris, FR"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  github           : "ZhouZiggy"
   email            : "ziqi.zhou@etu.u-paris.fr"
   googlescholar    : "https://scholar.google.fr/citations?user=QhylUe0AAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Ziqi-Zhou-20"
@@ -96,7 +97,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZhouZiggy"
   google_plus      :
   keybase          :
   instagram        :
