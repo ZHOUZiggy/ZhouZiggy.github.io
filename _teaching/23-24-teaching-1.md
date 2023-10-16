@@ -8,8 +8,6 @@ date: 23/10/2023
 location: "Paris, France"
 ---
 
-**Master:**
-
 
 SL2AY021 Phonetics
 ======
