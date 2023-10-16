@@ -10,7 +10,7 @@ redirect_from:
 
 Hello and welcome! I am thrilled to embark on this exciting doctoral journey and share my academic pursuits on prosody and acoustic phonetics with you!
 
-**About me**
+**Self Introduction**
 
 I am Zhou Ziqi, a first-year Ph.D. student from [Université Paris Cité](https://u-paris.fr/linguistique/). 
 
