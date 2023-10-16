@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Postgraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2023-Autumn-teaching-1
 venue: "Université Paris Cité, UFR"
 date: 23/10/2023
 location: "Paris, France"
